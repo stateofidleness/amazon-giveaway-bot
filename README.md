@@ -12,7 +12,7 @@ To use:
 
 Disclaimer:
 
-There's some issues to work out with better exception-handling of the Selenium calls, and adding support for the givewaways that require watching a short video. Currently, this only enters those that require only clicking the animated box for entry.
+There's some issues to work out with better exception-handling of the Selenium calls, and adding support for the giveaways that require watching a short video. Currently, this only enters those that require only clicking the animated box for entry.
 
 Tip: You can mess with the value in build_url_list to increase speed and limit the the number of pages to iterate through.
 
